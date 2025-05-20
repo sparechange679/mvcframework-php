@@ -1,2 +1,2 @@
-# mvcframework-php
+# MVC Framework in PHP
 
